@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459346855221",
+    "firebase_url": "https://joekfuny.firebaseio.com",
+    "project_id": "joekfuny",
+    "storage_bucket": "joekfuny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459346855221:android:043f67f3f01166e5e5b87c",
+        "android_client_info": {
+          "package_name": "com.crezy.joekfuny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459346855221-jms153sk5n5565j5eh0suh1u83tbj7ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crezy.joekfuny",
+            "certificate_hash": "4666ee9852f23ce0a9c5d242eb234bef776378d6"
+          }
+        },
+        {
+          "client_id": "459346855221-li66fkbt12id4a8dt53nrk4a28hrv6ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF_06EifUGjiTF-nSeVIncmfMojmPx_Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459346855221-li66fkbt12id4a8dt53nrk4a28hrv6ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
